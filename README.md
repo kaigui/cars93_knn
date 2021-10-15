@@ -1,1 +1,1 @@
-Application of sklearn random forest classifier and regressor on cars93 dataset  
+Application of knn regressor on cars93 dataset  
